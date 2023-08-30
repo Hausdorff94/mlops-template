@@ -1,0 +1,7 @@
+{
+    "project_title": "Project Name",
+    "directory_name": "mlops_project_template",
+    "description": "New project from cookicutter template",
+    "author": "Hausdorff94",
+    "python_version": "3.10"
+}
